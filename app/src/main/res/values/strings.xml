@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Validasi Login</string>
+    <string name="proyek2">PROYEK 2</string>
+    <string name="Register">Register</string>
+    <string name="Password">Password</string>
+    <string name="Username">Username</string>
+    <string name="Login">Login</string>
+</resources>
